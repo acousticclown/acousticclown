@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 
 ## I'm a Web Developer, UI/UX designer, Competitive Programmer!
 
-- 🔭 I’m currently working on a  !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently persuing my Bachelor in Technology in Computer Science Engineering!
+- 🌱 I’m currently learning new technologies every day
+- 👯 I’m looking to collaborate with great coders and developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music and 
+- ⚡ Fun fact: I love music and Swimming
 - 🤔 I’m looking for help with the learning to use Github more
 - 💬 Ask me about Competitive Coding
-- 📫 How to reach me: My Social Handles are Below.
-- 😄 Pronouns: 
+- 📫 How to reach me: My Social Handles are Below
+- 😄 Pronouns: They/them , We/us.
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
