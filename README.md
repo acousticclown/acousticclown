@@ -95,6 +95,9 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 <!--START_SECTION:activity-->
 <!--1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
