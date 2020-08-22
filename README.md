@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
 ![Twitter Follow](https://img.shields.io/twitter/follow/Acoustic_clown?color=1DA1F2&logo=TWITTER&style=for-the-badge)
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> | ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ```
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <!--| ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ``` -->
 
 ## I'm a Web Developer, UI/UX designer, Competitive Programmer!
 
