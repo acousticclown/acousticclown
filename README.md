@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: They/them , We/us.
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/igvvy2wh1wh1st2h9zny2jrw4)
+[<img src="https://novatorem.acousticclown.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/igvvy2wh1wh1st2h9zny2jrw4)
 
 ### Connect with me:
 
