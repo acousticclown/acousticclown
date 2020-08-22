@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Shivansh - aka [acousticclown] 👋
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
-[![Twitter Follow]https://img.shields.io/twitter/follow/Acoustic_clown?color=1DA1F2&logo=TWITTER&style=for-the-badge]
+https://img.shields.io/twitter/follow/Acoustic_clown?color=1DA1F2&logo=TWITTER&style=for-the-badge
 
 ## I'm a Web Developer, UI/UX designer, Competitive Programmer!
 
