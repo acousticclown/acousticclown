@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I'm Shivansh 👋
+![Hi](abc63329-c482-413d-adb0-1119243878a9-cc339598-7ada-4bd0-9a9c-6b94be12e395-v1.png)
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
 ![Twitter Follow](https://img.shields.io/twitter/follow/Acoustic_clown?color=1DA1F2&logo=TWITTER&style=for-the-badge)
