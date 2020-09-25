@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new technologies every day
 - 👯 I’m looking to collaborate with great coders and developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love music and Swimming
-- 🤔 I’m looking for help with the learning to use Github more
-- 💬 Ask me about Competitive Coding
-- 📫 How to reach me: My Social Handles are Below
+- ⚡ Fun fact: The first computer bug was an actual bug, well GOOGLE it.
+- 🤔 I’m looking for internships now-a-days.
+- 💬 Ask me about Competitive Coding.
+- 📫 How to reach me: My Social Handles are Below 👇
 - 😄 Pronouns: They/them , We/us.
 
 ### Spotify Playing 🎧
@@ -94,21 +94,25 @@ Here are some ideas to get you started:
 -->
 ---
 
+<br />
+<br />
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#103020](https://github.com//microsoft/vscode/issues/103020) in [microsoft/vscode](https://github.com//microsoft/vscode)
 2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
 4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
+
 <!--END_SECTION:activity-->
 
 </details>
+
+<!--START_SECTION:Stats-->
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -117,7 +121,11 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://shivanshpratap.com
+<!--END_SECTION:Stats-->
+
+<!--START_SECTION:Social-Links-->
+
+[website]: https://shivanshpratap.netlify.app
 [twitter]: https://twitter.com/Acoustic_clown
 [youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
 [instagram]: https://instagram.com/Acoustic_clown
@@ -126,3 +134,5 @@ Here are some ideas to get you started:
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0-->
+
+<!--END_SECTION:Social-Links-->
