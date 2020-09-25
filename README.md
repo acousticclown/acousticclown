@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Shivansh 👋
+# Hi there, I'm Shivansh 👋
 ![abc63329-c482-413d-adb0-1119243878a9-cc339598-7ada-4bd0-9a9c-6b94be12e395-v1](https://user-images.githubusercontent.com/46789950/90977414-f8af1180-e562-11ea-995f-289a095b1d62.png)
 
 
