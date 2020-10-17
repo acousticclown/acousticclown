@@ -126,9 +126,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:Social-Links-->
 
 [website]: https://shivanshpratap.netlify.app
-[twitter]: https://twitter.com/Acoustic_clown
+[twitter]: https://twitter.com/acousticclown
 [youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
-[instagram]: https://instagram.com/acousticclown
+[instagram]: https://instagram.com/Acoustic_clown
 [linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/
 <!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
