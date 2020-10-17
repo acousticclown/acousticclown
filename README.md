@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
-![Twitter Follow](https://img.shields.io/twitter/follow/Acoustic_clown?color=1DA1F2&logo=TWITTER&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)
 <!--![GitHub stars](https://img.shields.io/github/stars/acousticclown/acousticclown?color=tomato&logo=github&style=for-the-badge)
 <!--<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <!--| ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ``` -->
 
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
 [website]: https://shivanshpratap.netlify.app
 [twitter]: https://twitter.com/Acoustic_clown
 [youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
-[instagram]: https://instagram.com/Acoustic_clown
+[instagram]: https://instagram.com/acousticclown
 [linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/
 <!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
