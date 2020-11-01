@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Shivansh 👋
-![abc63329-c482-413d-adb0-1119243878a9-cc339598-7ada-4bd0-9a9c-6b94be12e395-v1](https://user-images.githubusercontent.com/46789950/90977414-f8af1180-e562-11ea-995f-289a095b1d62.png)
-
+<img align="center" alt="My Bitmoji" width="350px" src="https://user-images.githubusercontent.com/46789950/90977414-f8af1180-e562-11ea-995f-289a095b1d62.png" />
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facousticclown&screen_name=acousticclown)
@@ -44,7 +43,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<!--<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />-->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
