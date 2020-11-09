@@ -101,11 +101,11 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/xenesis-official/Xenator/pull/3) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
-2. 💪 Opened PR [#1](https://github.com/xenesis-official/Component-testing/pull/1) in [xenesis-official/Component-testing](https://github.com/xenesis-official/Component-testing)
-3. 💪 Opened PR [#1](https://github.com/xenesis-official/Integration-testing/pull/1) in [xenesis-official/Integration-testing](https://github.com/xenesis-official/Integration-testing)
-4. 💪 Opened PR [#1](https://github.com/xenesis-official/System-Testing/pull/1) in [xenesis-official/System-Testing](https://github.com/xenesis-official/System-Testing)
-5. 💪 Opened PR [#1](https://github.com/xenesis-official/Unit-Test/pull/1) in [xenesis-official/Unit-Test](https://github.com/xenesis-official/Unit-Test)
+1. 🎉 Merged PR [#3](https://github.com/xenesis-official/Xenator/pull/3) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
+2. 💪 Opened PR [#3](https://github.com/xenesis-official/Xenator/pull/3) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
+3. 💪 Opened PR [#1](https://github.com/xenesis-official/Component-testing/pull/1) in [xenesis-official/Component-testing](https://github.com/xenesis-official/Component-testing)
+4. 💪 Opened PR [#1](https://github.com/xenesis-official/Integration-testing/pull/1) in [xenesis-official/Integration-testing](https://github.com/xenesis-official/Integration-testing)
+5. 💪 Opened PR [#1](https://github.com/xenesis-official/System-Testing/pull/1) in [xenesis-official/System-Testing](https://github.com/xenesis-official/System-Testing)
 
 <!--END_SECTION:activity-->
 
