@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for internships now-a-days.
 - 💬 Ask me about Competitive Coding.
 - 📫 How to reach me: My Social Handles are Below 👇
-- 😄 Pronouns: They/them , We/us.
+- 😄 Pronouns: He/Him.
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.acousticclown.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/igvvy2wh1wh1st2h9zny2jrw4)
