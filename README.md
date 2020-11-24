@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Shivansh 👋
+# Hi there, I'm [Shivansh](https://shivanshpratap.netlify.app) 👋
 <img align="center" alt="My Bitmoji" width="350px" src="https://user-images.githubusercontent.com/46789950/90977414-f8af1180-e562-11ea-995f-289a095b1d62.png" />
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
