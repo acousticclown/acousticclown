@@ -101,11 +101,11 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/xenesis-official/Xenator/pull/7) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
-2. ❗️ Closed issue [#6](https://github.com/xenesis-official/Xenator/issues/6) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
-3. 💪 Opened PR [#7](https://github.com/xenesis-official/Xenator/pull/7) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
-4. 🗣 Commented on [#6](https://github.com/xenesis-official/Xenator/issues/6) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
-5. 🗣 Commented on [#5](https://github.com/xenesis-official/Xenator/issues/5) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
+1. 🎉 Merged PR [#9](https://github.com/xenesis-official/Xenator/pull/9) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
+2. ❌ Reopened PR [#9](https://github.com/xenesis-official/Xenator/pull/9) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
+3. ❌ Closed PR [#9](https://github.com/xenesis-official/Xenator/pull/9) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
+4. 💪 Opened PR [#9](https://github.com/xenesis-official/Xenator/pull/9) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
+5. 🎉 Merged PR [#8](https://github.com/xenesis-official/Xenator/pull/8) in [xenesis-official/Xenator](https://github.com/xenesis-official/Xenator)
 
 <!--END_SECTION:activity-->
 
