@@ -101,11 +101,11 @@ Here are some ideas to get you started:
   
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/acousticclown/AlmsDeeds/pull/12) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
-2. 💪 Opened PR [#12](https://github.com/acousticclown/AlmsDeeds/pull/12) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
-3. 🎉 Merged PR [#11](https://github.com/acousticclown/AlmsDeeds/pull/11) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
-4. 💪 Opened PR [#11](https://github.com/acousticclown/AlmsDeeds/pull/11) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
-5. 🎉 Merged PR [#10](https://github.com/acousticclown/AlmsDeeds/pull/10) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
+1. 🎉 Merged PR [#14](https://github.com/acousticclown/AlmsDeeds/pull/14) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
+2. 💪 Opened PR [#14](https://github.com/acousticclown/AlmsDeeds/pull/14) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
+3. ❌ Closed PR [#13](https://github.com/acousticclown/AlmsDeeds/pull/13) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
+4. 💪 Opened PR [#13](https://github.com/acousticclown/AlmsDeeds/pull/13) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
+5. 🎉 Merged PR [#12](https://github.com/acousticclown/AlmsDeeds/pull/12) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
 
 <!--END_SECTION:activity-->
 
