@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Github Stats</summary>
-  ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=acousticclown&show_icons=true&theme=radical&hide_rank=true)
+  ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=acousticclown&show_icons=true&hide_rank=true&theme=radical)
 </details>
 
 <!--END_SECTION:Stats-->
