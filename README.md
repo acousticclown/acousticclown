@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facousticclown&screen_name=acousticclown)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshpratap/)
 <!--![GitHub stars](https://img.shields.io/github/stars/acousticclown/acousticclown?color=tomato&logo=github&style=for-the-badge)
 <!--<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <!--| ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ``` -->
 
