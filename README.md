@@ -112,6 +112,8 @@ Here are some ideas to get you started:
 5. 🎉 Merged PR [#12](https://github.com/acousticclown/AlmsDeeds/pull/12) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
 
 <!--END_SECTION:activity-->
+  
+<br />
 
 </details>
 
