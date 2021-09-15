@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Shivansh](https://shivanshpratap.netlify.app) 👋
+# Hi there, I'm [Shivansh](https://shivanshpratap.me) 👋
 <img align="center" alt="My Bitmoji" width="350px" src="https://user-images.githubusercontent.com/46789950/90977414-f8af1180-e562-11ea-995f-289a095b1d62.png" />
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)
@@ -128,11 +128,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:Social-Links-->
 
-[website]: https://shivanshpratap.netlify.app
+<!-- [website]: https://shivanshpratap.netlify.app
 [twitter]: https://twitter.com/acousticclown
 [youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
 [instagram]: https://instagram.com/Acoustic_clown
-[linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/
+[linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/ -->
 <!--[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
