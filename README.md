@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.acousticclown.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/igvvy2wh1wh1st2h9zny2jrw4)
-
+<!-- 
 ### Connect with me:
 
 [<img align="left" alt="acousticclown.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="acousticclown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="acousticclown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br /> -->
 
 ### Languages and Tools:
 
