@@ -119,7 +119,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:Stats-->
 
-<summary>:zap: Github Stats</summary>
 ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=acousticclown)
 
 <!--END_SECTION:Stats-->
