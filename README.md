@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 # Hi there, I'm [Shivansh](https://shivanshpratap.netlify.app) 👋
 <img align="center" alt="My Bitmoji" width="350px" src="https://user-images.githubusercontent.com/46789950/90977414-f8af1180-e562-11ea-995f-289a095b1d62.png" />
 
-<!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)-->
-[![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facousticclown&screen_name=acousticclown)
-[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshpratap/)
+<!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facousticclown&screen_name=acousticclown)-->
+[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshpratap/)[![Twitter Badge](https://img.shields.io/badge/-acousticclown-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://www.twitter.com/acousticclown) [![Mail Badge](https://img.shields.io/badge/-acousticclown-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/acouticclown/) [![Mail Badge](https://img.shields.io/badge/-Shivansh-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w)
 <!--![GitHub stars](https://img.shields.io/github/stars/acousticclown/acousticclown?color=tomato&logo=github&style=for-the-badge)
 <!--<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <!--| ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ``` -->
 
