@@ -112,17 +112,17 @@ Here are some ideas to get you started:
 5. 🎉 Merged PR [#12](https://github.com/acousticclown/AlmsDeeds/pull/12) in [acousticclown/AlmsDeeds](https://github.com/acousticclown/AlmsDeeds)
 
 <!--END_SECTION:activity-->
-  
-<br />
 
 </details>
 
+<br />
+
 <!--START_SECTION:Stats-->
 
-<!-- <details>
-  <summary>:zap: Github Stats</summary> -->
+<details>
+  <summary>:zap: Github Stats</summary>
   ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=acousticclown)
-<!-- </details> -->
+</details>
 
 <!--END_SECTION:Stats-->
 
