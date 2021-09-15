@@ -119,10 +119,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>:zap: Github Stats</summary>
-
-<!--   <img align="left" alt="acousticclown's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=acousticclown&show_icons=true&hide_border=true" /> -->
-  ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=acousticclown&show_icons=true&theme=radical)
-
+  ![Shivansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=acousticclown&show_icons=true&theme=radical&hide_rank=true)
 </details>
 
 <!--END_SECTION:Stats-->
