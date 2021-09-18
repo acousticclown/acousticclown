@@ -22,15 +22,11 @@ Here are some ideas to get you started:
 
 ## I'm a Web Developer, UI/UX designer, Competitive Programmer!
 
-- 🔭 I’m currently persuing my Bachelor in Technology in Computer Science Engineering!
-- 🌱 I’m currently learning new technologies every day
-- 👯 I’m looking to collaborate with great coders and developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: The first computer bug was an actual bug, well GOOGLE it.
-- 🤔 I’m looking for internships now-a-days.
-- 💬 Ask me about Competitive Coding.
-- 📫 How to reach me: My Social Handles are Below 👇
-- 😄 Pronouns: He/Him.
+- 🔭 Developing new skills everyday.
+- 🌱 Exploring the world, virtually and physically.
+- 👯 I’m looking to **collaborate with other developers.**
+- 🥅 2021 Goals: **Contribute more to Open Source projects.**
+- 😄 Pronouns: **He/Him.**
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem.acousticclown.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/igvvy2wh1wh1st2h9zny2jrw4)
@@ -47,22 +43,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!--<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />-->
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<!--<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />-->
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E44D26?style=flat&labelColor=black&logo=HTML5&logoColor=E44D26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-254BDD?style=flat&labelColor=black&logo=CSS3&logoColor=254BDD)](#)
+ [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-583E80?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=583E80)](#) [![Vscode Badge](https://img.shields.io/badge/-vscode-0076C6?style=flat&labelColor=black&logo=VisualStudiocode&logoColor=0076C6)](#) [![Python Badge](https://img.shields.io/badge/-Python-3675AB?style=flat&labelColor=black&logo=python&logoColor=FFD543)](#) [![Github Badge](https://img.shields.io/badge/-Github-1B1F23?style=flat&labelColor=black&logo=github&logoColor=ffffff)](#) [![Git Badge](https://img.shields.io/badge/-GIT-E84E31?style=flat&labelColor=black&logo=git&logoColor=E84E31)](#) 
+ [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA610?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA610)](#) [![MySQL Badge](https://img.shields.io/badge/-MYSQL-00718b?style=flat&labelColor=ff914c&logo=MYSQL&logoColor)](#)
 
 <br />
 <br />
