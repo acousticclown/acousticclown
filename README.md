@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]<!--(https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/acousticclown?color=1DA1F2&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Facousticclown&screen_name=acousticclown)-->
-[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshpratap/)
-[![Twitter Badge](https://img.shields.io/badge/-acousticclown-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://www.twitter.com/acousticclown/)
-[![Mail Badge](https://img.shields.io/badge/-acousticclown-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/acouticclown/)
-[![Mail Badge](https://img.shields.io/badge/-Shivansh-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivansh-blue?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanshpratap/)
+[![Twitter Badge](https://img.shields.io/badge/-acousticclown-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://www.twitter.com/acousticclown/)
+[![Mail Badge](https://img.shields.io/badge/-acousticclown-e84393?style=plastic&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/acouticclown/)
+[![Mail Badge](https://img.shields.io/badge/-Shivansh-e74c3c?style=plastic&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w)
 <!--![GitHub stars](https://img.shields.io/github/stars/acousticclown/acousticclown?color=tomato&logo=github&style=for-the-badge)
 <!--<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> <!--| ``` https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white ``` -->
 
@@ -43,9 +43,18 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E44D26?style=flat&labelColor=black&logo=HTML5&logoColor=E44D26)](#) [![CSS Badge](https://img.shields.io/badge/-CSS3-254BDD?style=flat&labelColor=black&logo=CSS3&logoColor=254BDD)](#)
- [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-583E80?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=583E80)](#) [![Vscode Badge](https://img.shields.io/badge/-vscode-0076C6?style=flat&labelColor=black&logo=VisualStudiocode&logoColor=0076C6)](#) [![Python Badge](https://img.shields.io/badge/-Python-3675AB?style=flat&labelColor=black&logo=python&logoColor=FFD543)](#) [![Github Badge](https://img.shields.io/badge/-Github-1B1F23?style=flat&labelColor=black&logo=github&logoColor=ffffff)](#) [![Git Badge](https://img.shields.io/badge/-GIT-E84E31?style=flat&labelColor=black&logo=git&logoColor=E84E31)](#) 
- [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA610?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFA610)](#) [![MySQL Badge](https://img.shields.io/badge/-MYSQL-00718b?style=flat&labelColor=ff914c&logo=MYSQL&logoColor)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=flat-square&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)  
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=flat-square&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E44D26?style=flat-square&labelColor=black&logo=HTML5&logoColor=E44D26)](#) 
+[![CSS Badge](https://img.shields.io/badge/-CSS3-254BDD?style=flat-square&labelColor=black&logo=CSS3&logoColor=254BDD)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-583E80?style=flat-square&labelColor=black&logo=Bootstrap&logoColor=583E80)](#) 
+[![Vscode Badge](https://img.shields.io/badge/-vscode-0076C6?style=flat-square&labelColor=black&logo=VisualStudiocode&logoColor=0076C6)](#) 
+[![Python Badge](https://img.shields.io/badge/-Python-3675AB?style=flat-square&labelColor=black&logo=python&logoColor=FFD543)](#) 
+[![Github Badge](https://img.shields.io/badge/-Github-1B1F23?style=flat-square&labelColor=black&logo=github&logoColor=ffffff)](#) 
+[![Git Badge](https://img.shields.io/badge/-GIT-E84E31?style=flat-square&labelColor=black&logo=git&logoColor=E84E31)](#) 
+[![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA610?style=flat-square&labelColor=black&logo=firebase&logoColor=FFA610)](#) 
+[![MySQL Badge](https://img.shields.io/badge/-MYSQL-00718b?style=flat-square&labelColor=ff914c&logo=MYSQL&logoColor)](#)
 
 <br />
 <br />
