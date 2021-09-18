@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-1B1F23?style=flat-square&labelColor=black&logo=github&logoColor=ffffff)](#)
 [![Git Badge](https://img.shields.io/badge/-GIT-E84E31?style=flat-square&labelColor=black&logo=git&logoColor=E84E31)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA610?style=flat-square&labelColor=black&logo=firebase&logoColor=FFA610)](#)
-[![MySQL Badge](https://img.shields.io/badge/-MYSQL-00718b?style=flat-square&labelColor=black&logo=MYSQL&logoColor)](#)
+[![MySQL Badge](https://img.shields.io/badge/-MYSQL-00718b?style=flat-square&labelColor=black&logo=MYSQL&logoColor=white)](#)
 
 <br />
 <br />
