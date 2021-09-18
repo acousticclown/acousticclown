@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 [![CSS Badge](https://img.shields.io/badge/-CSS3-254BDD?style=flat-square&labelColor=black&logo=CSS3&logoColor=254BDD)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-583E80?style=flat-square&labelColor=black&logo=Bootstrap&logoColor=583E80)](#)
 [![Vscode Badge](https://img.shields.io/badge/-vscode-0076C6?style=flat-square&labelColor=black&logo=VisualStudiocode&logoColor=0076C6)](#)
-[![Python Badge](https://img.shields.io/badge/-Python-3675AB?style=flat-square&labelColor=black&logo=python&logoColor=FFD543)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3675AB?style=flat-square&labelColor=black&logo=python&logoColor=F0DB4F)](#)
 [![Github Badge](https://img.shields.io/badge/-Github-1B1F23?style=flat-square&labelColor=black&logo=github&logoColor=ffffff)](#)
 [![Git Badge](https://img.shields.io/badge/-GIT-E84E31?style=flat-square&labelColor=black&logo=git&logoColor=E84E31)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA610?style=flat-square&labelColor=black&logo=firebase&logoColor=FFA610)](#)
