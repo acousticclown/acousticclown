@@ -56,11 +56,6 @@ Here are some ideas to get you started:
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFA610?style=flat-square&labelColor=black&logo=firebase&logoColor=FFA610)](#)
 [![MySQL Badge](https://img.shields.io/badge/-MYSQL-00718b?style=flat-square&labelColor=black&logo=MYSQL&logoColor=white)](#)
 
-<br />
-<br />
-
----
-
 <!--### 📺 Latest YouTube Videos
 <!--
 <!-- YOUTUBE:START 
@@ -73,7 +68,6 @@ Here are some ideas to get you started:
 <!--
 ➡️ [more videos...](https://youtube.com/codestackr)
 -->
----
 
 <!--### 📕 Latest Blog Posts
 
@@ -87,7 +81,6 @@ Here are some ideas to get you started:
 <!--
 ➡️ [more blog posts...](https://codestackr.com)
 -->
----
 
 <br />
 <br />
